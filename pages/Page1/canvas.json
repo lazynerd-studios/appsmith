@@ -76,7 +76,45 @@
                       "key": "accentColor"
                     }
                   ],
-                  "children": [],
+                  "children": [
+                    {
+                      "boxShadow": "none",
+                      "widgetName": "Switch1",
+                      "displayName": "Switch",
+                      "iconSVG": "/static/media/icon.a3115bc1c224776de2846985c8819f99.svg",
+                      "searchTags": [
+                        "boolean"
+                      ],
+                      "topRow": 14,
+                      "bottomRow": 18,
+                      "parentRowSpace": 10,
+                      "type": "SWITCH_WIDGET",
+                      "alignWidget": "LEFT",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 4,
+                      "leftColumn": 24,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "accentColor"
+                        }
+                      ],
+                      "labelPosition": "Left",
+                      "isDisabled": false,
+                      "key": "lau7lkwe70",
+                      "isDeprecated": false,
+                      "rightColumn": 36,
+                      "widgetId": "u1dwbptc1q",
+                      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "isVisible": true,
+                      "label": "Label",
+                      "defaultSwitchState": true,
+                      "version": 1,
+                      "parentId": "jl8ryl3bud",
+                      "renderMode": "CANVAS",
+                      "isLoading": false
+                    }
+                  ],
                   "key": "8u72tlh5m4",
                   "isDeprecated": false,
                   "rightColumn": 276,
